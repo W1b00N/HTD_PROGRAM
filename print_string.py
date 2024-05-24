@@ -1,0 +1,5 @@
+print("Hello")
+print("Hello World")
+print("Hello_python")
+print("Hello_python")
+print("Merry X'Mas")
