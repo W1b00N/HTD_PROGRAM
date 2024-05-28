@@ -42,11 +42,11 @@ List the resources you're using to learn Python. These could include online tuto
 
 | Command | Description |
 | ------- | ----------- |
-| `git status` | Check status |
-| `git add [file-name.txt]` | Add a file to the staging area |
-| `git add -A` | Add all new and changed files to the staging area |
-| `git commit -m "[commit message]"` | Commit changes |
-| `git rm -r [file-name.txt]` | Remove a file (or folder) |
+| `git status` | ตรวจสอบสถานะของไฟล์ |
+| `git add [file-name.txt]` | เพิ่มไฟล์ไปใน staging area |
+| `git add -A` | เพิ่มไฟล์ใหม่และไฟล์ที่แก้ไขทั้งหมดไปใน staging area |
+| `git commit -m "[commit message]"` | เขียนเพื่อบอกว่าได้ทำอะไรในไฟล์ ก่อนจะส่งขึ้น server Commit changes |
+| `git rm -r [file-name.txt]` | ลบไฟล์ที่ไม่ต้องการออก Remove a file (or folder) |
 
 ### Branching & Merging
 
