@@ -1,4 +1,7 @@
 # **โจทย์การฝึกทำ Print string**
+## สัญลักษณ์ ->> หมายถึง output
+---
+
 1. Hello
 
 ---
@@ -45,24 +48,24 @@
     
 ---
 
-12. > +
-    > + + +
-    > +
+12. ->>     +
+    ->>   + + +
+    ->>     +
 
 ---
 
-13. *   +   *
-    +   *   +
-    *   +   *
+13. ->> *   +   *
+    ->> +   *   +
+    ->> *   +   *
     
 ---
 
-14. just because something
+14. ->> just because something
     thinks differently from you,
     does that mean it's not thinking?
     
 ---
 
-15. \       /
-        X   
-    /       \
+15. ->> \       /
+    ->>     X   
+    ->> /       \
